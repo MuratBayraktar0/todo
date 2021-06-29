@@ -1,0 +1,20 @@
+.item{
+    line-height: 40px;
+    background-color: darkviolet;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    width: 50%;
+}
